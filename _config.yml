@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Ravi Singh / singh"
+theme                    : minima
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
